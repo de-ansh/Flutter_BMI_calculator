@@ -1,6 +1,7 @@
 # bmicalc
 
 A new Flutter project.
+![](images/projectbanner.png)
 
 ## Getting Started
 
